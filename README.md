@@ -1,1 +1,3 @@
 # shtuff
+
+Learn CS shtuff
